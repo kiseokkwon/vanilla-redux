@@ -1,0 +1,4 @@
+npx create-redux-app ./
+npm add react-redux
+npm add react-router-dom
+npm install @reduxjs/toolkit
